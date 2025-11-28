@@ -6,7 +6,7 @@
             "description": "Pack oficial con chat de voz.",
             "version": "1.20.1",
             "loader": "forge",
-            "image": "https://images.unsplash.com/photo-1605806616949-1e87b487bc2a?q=80&w=600",
+            "image": "https://cdn.discordapp.com/attachments/1317301654424522864/1442259793044574239/image.png?ex=692a0e9a&is=6928bd1a&hm=f23b154c8586e0e2654f2664c64607d1150a26a0aef54b1dd431eb7f669f3878&",
             "zipUrl": "https://github.com/DevCuac/Launcher/releases/tag/mods"
         }
     ],
@@ -16,4 +16,5 @@
             "date": "Hoy"
         }
     ]
+
 }

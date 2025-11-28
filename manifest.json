@@ -1,0 +1,19 @@
+{
+    "modpacks": [
+        {
+            "id": "evento_s1",
+            "name": "Evento T1: Inicio",
+            "description": "Pack oficial con chat de voz.",
+            "version": "1.20.1",
+            "loader": "forge",
+            "image": "https://images.unsplash.com/photo-1605806616949-1e87b487bc2a?q=80&w=600",
+            "zipUrl": "https://github.com/DevCuac/Launcher/releases/tag/mods"
+        }
+    ],
+    "news": [
+        {
+            "title": "¡Launcher Conectado!",
+            "date": "Hoy"
+        }
+    ]
+}

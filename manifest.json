@@ -1,20 +1,13 @@
 {
     "modpacks": [
         {
-            "id": "evento_s1",
-            "name": "Evento T1: Inicio",
-            "description": "Pack oficial con chat de voz.",
-            "version": "1.20.1",
+            "id": "salchi-navidad",
+            "name": "Mods Salchi Navida",
+            "description": "mODS del evento del salchi para navidad.",
+            "version": "1.0.0",
             "loader": "forge",
-            "image": "https://cdn.discordapp.com/attachments/1317301654424522864/1442259793044574239/image.png?ex=692a0e9a&is=6928bd1a&hm=f23b154c8586e0e2654f2664c64607d1150a26a0aef54b1dd431eb7f669f3878&",
-            "zipUrl": "https://github.com/DevCuac/Launcher/releases/tag/mods"
-        }
-    ],
-    "news": [
-        {
-            "title": "¡Launcher Conectado!",
-            "date": "Hoy"
+            "url": "https://github.com/DevCuac/Launcher/releases/download/mods/pack-temporada1.zip",
+            "image": "https://cdn.discordapp.com/attachments/1317301654424522864/1442259793044574239/image.png?ex=692f549a&is=692e031a&hm=6c2e368508e69d5fdf1364b0ed4af2e5fe52c4306cf7aac0ba291c6d878a6ebe&"
         }
     ]
-
 }
